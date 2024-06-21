@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  App
+//  PushToTalkDemo
 //
 //  Created by jo on 6/21/24.
 //
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Push to Talk")
+            Text("Push to Talk Demo")
         }
         .padding()
     }
